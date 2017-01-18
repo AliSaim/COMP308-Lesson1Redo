@@ -10,5 +10,13 @@
     "NodeJS"
   ],
   "author": "Ali Saim",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliSaim/COMP308-Lesson1Redo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AliSaim/COMP308-Lesson1Redo/issues"
+  },
+  "homepage": "https://github.com/AliSaim/COMP308-Lesson1Redo#readme"
 }
